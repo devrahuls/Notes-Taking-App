@@ -1,3 +1,9 @@
+# About this Project:
+This is the Notes taking app which stores all the history as in the local storage of the browser.
+
+It has multiple features:
+- Styling the fonts
+- Attach files or images
 
 # Getting Started with Create React App
 
